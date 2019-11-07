@@ -28,7 +28,7 @@
 
 ```json
 [
-  { "date": "05-01", "product": "洗衣粉", "sales": 15.2 },
+  { "date": "05-01", "product": "洗衣粉", "sales": 15.3 },
   { "date": "05-02", "product": "钢丝球", "sales": 39.2 }
 ]
 ```
